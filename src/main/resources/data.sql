@@ -1,0 +1,2 @@
+insert into storage_book (book_name, id, isbn, aisle, author) values('H2', 'isbn1', 'isbn', 1, 'Kate' );
+insert into storage_book (book_name, id, isbn, aisle, author) values('H3', 'isbn2', 'isbn', 2, 'Kate' );
